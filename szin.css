@@ -1,0 +1,46 @@
+
+
+.elem1{
+background-color: blueviolet
+}
+.elem2{
+background-color: aqua;
+}
+.elem3{
+background-color: lightskyblue;
+}
+.elem4{
+background-color: green;
+}
+.elem5{
+background-color: darksalmon;
+}
+.elem6{
+background-color: pink;
+}
+.elem7{
+background-color: lightpink;
+}
+.elem8{
+background-color: orange;
+}
+.item{
+    width: 150px;
+    height: 100px;
+    
+    
+   
+}
+.btm{
+    width: 100%;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+    align-content: space-between;
+    flex-wrap: wrap;
+   
+}
+
